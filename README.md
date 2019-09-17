@@ -1,1 +1,1 @@
-# Content
+# Logos and static content
